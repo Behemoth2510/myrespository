@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Meu Primeiro Código</h1>
+    <hr>
     <p>Este é um texto do meu primeiro código</p>
 </body>
 </html>
