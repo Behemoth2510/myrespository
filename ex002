@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeira Página</title>
+</head>
+<body>
+    <h1>Utilizando algumas funções do  HTML</h1>
+    <hr>
+    <h2>Título 2</h2>
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+    <h3>Aqui será adicionado um quiz para resposta</h3>
+        <form>
+            <input type="radio">
+            <label for="foption">Primeiro nome</label><br>
+            <input type="radio">
+            <label for="soption">Segundo nome</label><br>
+            <input type="radio">
+            <label for="toption">Terceiro nome</label><br>
+            <input type="radio">
+            <label for="ffoption">Quarto nome</label><br>
+    </form>
+    <div>
+    <h4>Aqui será utilizada a imagem do Imperador Diocleciano</h4>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Istanbul_-_Museo_archeol._-_Diocleziano_%28284-305_d.C.%29_-_Foto_G._Dall%27Orto_28-5-2006.jpg" width="10%">
+    </div>
+
+    <div>
+    <p>Caso o usuário deseje, ele pode cadastrar seu e-mail e senha para criar uma conta neste site</p>
+    <form>
+        Usuário:<input type="username" class="usuario"> 
+        Senha:<input type="password" class="senha">
+    </form>
+    </div>       
+</body>
+<footer>
+    <strong>Obrigado pela visita, volte sempre!</strong>
+</footer>
+</html>
